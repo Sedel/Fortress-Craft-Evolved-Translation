@@ -41,7 +41,7 @@
 					Q: Objekt aus einer Maschine herausnehmen
 					R: Eine Maschine Drehen
 					
-					V: Wechsel zur Strahlenpistole
+					V: Wechsel zur Strahlenwaffe
 					LMT: Feuer
 					RMT: Einen Schuss aufladen , zum abfeuern loslassen
 					</Right>
@@ -76,10 +76,10 @@
 					<Text>Waffen &amp; Werkzeuge</Text>
 				</Header>
 				<TwoColumnParagraph>
-					<Left>X: Wechsel zur Baupistole
-					V: Wechsel zur Strahlenpistole
+					<Left>X: Wechsel zur Bauwerkzeug
+					V: Wechsel zur Strahlenwaffe
 					B: Wechsel zur Kamera</Left>
-					<Right>N: Wechsel zur Farbpistole
+					<Right>N: Wechsel zur Farbwerkzeug
 					M: Wechsel zum Scanner
 					Umschalt + Mausrad: Werkzeuge durchschalten</Right>
 				</TwoColumnParagraph>					
@@ -137,7 +137,7 @@
 					Rechte Umschalt Taste  + F1, F2 or F3: Netzwerk Bandbreite anpassen</Text>
 				</Paragraph>
 				<Header>
-					<Text>Baupistole</Text>
+					<Text>Bauwerkzeug</Text>
 				</Header>	
 				<TwoColumnParagraph>
 					<Left>LMT: Block setzten
@@ -155,7 +155,7 @@
 					Mausrad: Ping Einstellungen verändern</Text>
 				</Paragraph>
 				<Header>
-					<Text>Strahlenpistole</Text>
+					<Text>Strahlenwaffe</Text>
 				</Header>
 				<TwoColumnParagraph>
 					<Left>LMT: Einzelner Schuss abfeuern</Left>
