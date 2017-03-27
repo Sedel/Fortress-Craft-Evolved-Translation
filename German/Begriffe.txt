@@ -1,11 +1,11 @@
-Bitte in der folgenden Auflistung Worte eintragen die öfters vor kommen und noch nicht auf gelistet sind, um eine kontinuität zu gewährleisten, nicht das der spieler X verschiedene bezeichnungen hat für den selben gegenstand. Evtl mit anderne dateien abgleichen falls nicht sicher.
-Bei den Erzen habe ich (zeb) was spezielles gemacht. Darum werde ich mich auch kümmern.
+Bitte in der folgenden Auflistung Worte eintragen die Ã¶fters vor kommen und noch nicht auf gelistet sind, um eine kontinuitÃ¤t zu gewÃ¤hrleisten, nicht das der spieler X verschiedene bezeichnungen hat fÃ¼r den selben gegenstand. Evtl mit anderne dateien abgleichen falls nicht sicher.
+Bei den Erzen habe ich (zeb) was spezielles gemacht. Darum werde ich mich auch kÃ¼mmern.
 
 
 EN					<->				DE
---Ausdrücke
+--AusdrÃ¼cke
 Canister							Kartusche (bei einer Ladung)
-Canister							Kanister (bei einem Behälter)
+Canister							Kanister (bei einem BehÃ¤lter)
 Hopper								Trichter
 Power								Energie
 Ore									Erz
@@ -19,21 +19,22 @@ Tindron								Zinnium
 Build gun							Bauwerkzeug (alles mit Waffen zu kennzeichnen klingt bischen doof in Deutsch)
 Ray gun								Strahlenwaffe (? (Ist ja ne waffe))
 Paint gun							Farbwerkzeug
-
+Grappling Hook        Greifhaken
+Glowstick             Leuchtstab
 --Maschienen
 
 Ore Smelter							Schmelzofen
 Storage Hopper						Speichertrichter
-Extractor							Erzförderer
+Extractor							ErzfÃ¶rderer
 Manufacturing Plant					Konstruktionsanlage
 Energy Storage Block				Energie Speicherblock
 Laser Energy Transmitter			Laser Energie Transmitter
 Central Power Hub					Zentraler Energie Verteiler
-Conveyor Belt(s)					Förderband (Förderbänder)
+Conveyor Belt(s)					FÃ¶rderband (FÃ¶rderbÃ¤nder)
 Resarchstation						Forschungsstation
-state-of-the-art suit				Überlebensanzug
+state-of-the-art suit				Ãœberlebensanzug
 Freezon 							Freezon
-Baubleberries						Feuerdorn (hab nix mit dem namen baubleberries gefunden desshalb Feuerdorn, hat auch gelbe beeren somit passts für mich.)
+Baubleberries						Feuerdorn (hab nix mit dem namen baubleberries gefunden desshalb Feuerdorn, hat auch gelbe beeren somit passts fÃ¼r mich.)
 
 
 
